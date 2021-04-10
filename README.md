@@ -1,4 +1,5 @@
-# Project_1
+# Project_1 Mala Sharma, Orlando Fuller, Omar Goodwin
+
 
 ## Proposal / Hypothesis<br>
 
